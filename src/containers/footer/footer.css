@@ -1,0 +1,68 @@
+.footer__main {
+  color: white;
+  margin-top: 30rem;
+  max-width: 1470px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+
+.column__A {
+  float: left;
+  padding-right: 50px;
+}
+
+.column__B {
+  float: left;
+  padding-right: 50px;
+}
+
+.column__C {
+  float: left;
+  padding-right: 50px;
+}
+
+.column__D {
+  float: left;
+  padding-right: 50px;
+}
+
+.featured__links {
+  list-style-type: none;
+}
+
+.api__links {
+  list-style-type: none;
+}
+
+.blog__links {
+  list-style-type: none;
+}
+
+.information__links {
+  list-style-type: none;
+}
+
+.footer__banner {
+  position: absolute;
+  bottom: 0px;
+}
+
+.footer__banner a {
+  padding: 15px;
+}
+
+.banner__colA {
+  float: left;
+  width: 100%;
+  margin: 0px 0px 12.25px;
+  padding: 0px 12.25px;
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+.banner__colB {
+  float: right;
+  /* width: %; */
+}
