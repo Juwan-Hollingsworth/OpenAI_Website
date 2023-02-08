@@ -1,11 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { Body, Footer, Header } from "./containers";
+import { Body, Footer } from "./containers";
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      {/* <Header /> */}
       <Body />
       <Footer />
     </div>
