@@ -1,0 +1,46 @@
+/* .header__main {
+  color: white;
+  margin: 0;
+  padding: 5px;
+
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  right: 0%;
+  z-index: 1;
+
+  text-align: center;
+}
+
+.topbanner__text {
+  text-align: center;
+  color: white;
+}
+
+.horizon__banner {
+} */
+
+.topbanner__line {
+  margin-top: 10px;
+  padding: 20px;
+  /* text-align: center; */
+  background: white;
+  color: white;
+  /* font-size: 30px; */
+
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  z-index: 1;
+  width: 100%;
+  opacity: 0.1;
+  /* filter: blur(5px); */
+}
+
+.topbanner__text {
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  z-index: 1;
+  color: white;
+}
