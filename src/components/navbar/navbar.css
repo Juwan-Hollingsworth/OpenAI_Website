@@ -1,0 +1,23 @@
+.nav__row {
+  position: absolute;
+  top: 5%;
+  left: 0%;
+  z-index: 1;
+  /* width: 100%; */
+  /* opacity: 0.1; */
+  padding: 15px;
+}
+.nav__links li {
+  list-style-type: none;
+  display: inline;
+  padding: 25px;
+  margin: 0;
+}
+
+.nav__columnA {
+  float: left;
+}
+
+.nav__columnB {
+  float: left;
+}
