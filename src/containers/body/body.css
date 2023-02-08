@@ -17,3 +17,15 @@
   z-index: 1;
   font-size: 50px;
 }
+
+.hero__btns {
+  position: absolute;
+  top: 38%;
+  left: 20%;
+  z-index: 1;
+  font-size: 50px;
+}
+
+.hero__btns button {
+  padding: 12px;
+}
